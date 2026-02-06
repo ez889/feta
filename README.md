@@ -85,6 +85,8 @@ The final phase is packaging. It consists of **six sequential procedures**:
 
 This project is intended for **educational and portfolio purposes** and reflects real-world automation concepts used in food industry production lines.
 
-![photo_2026-02-06_19-12-40](https://github.com/user-attachments/assets/a4dfb688-ab3b-4f50-a07f-7d5e87ff1a1b)
+![photo_2026-02-06_19-12-40](https://github.com/user-attachments/assets/f9a3e3f6-6531-436f-b958-3530a35c35b3)
+
+
 
 
