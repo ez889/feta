@@ -59,8 +59,6 @@ In the Noz phase:
 - a small motor drives a rotating table,
 - a knife mechanism moves up and down.
 
-The table rotates, positioning each container under the knife, which cuts the cheese inside the container according to the required pattern.
-
 ---
 
 ## Phase 5 — Pakerica (Packaging)
@@ -86,3 +84,7 @@ The final phase is packaging. It consists of **six sequential procedures**:
   - interaction between sensors, actuators, and conveyors.
 
 This project is intended for **educational and portfolio purposes** and reflects real-world automation concepts used in food industry production lines.
+
+![photo_2026-02-06_19-12-40](https://github.com/user-attachments/assets/a4dfb688-ab3b-4f50-a07f-7d5e87ff1a1b)
+
+
