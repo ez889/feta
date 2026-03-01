@@ -1,5 +1,5 @@
 # Feta Cheese Production Line (PLC Project)
-(nije zavrseno)
+# (nije zavrsen project)
 
 This project is a reconstruction of a **real industrial Feta cheese production line**, based on practical experience and memory from a working machine.
 
