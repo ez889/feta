@@ -1,6 +1,7 @@
 # Feta Cheese Production Line (PLC Project)
 # (nije zavrsen project)
 
+version 1.0
 This project is a reconstruction of a **real industrial Feta cheese production line**, based on practical experience and memory from a working machine.
 
 The line consists of **five main technological phases** connected by conveyors:
